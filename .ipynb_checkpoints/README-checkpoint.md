@@ -1,7 +1,7 @@
 # Tiny-TimeNAS, KAIST CS565 Mini-Project (Sring 2023)
 > A Python Package for Time-Series Analysis on IoT Devices with Tiny Neural Architecture Search
 
-Author: Patara Trirat (patara.t@kaist.ac.kr) [[Final Paper](/papers.pdf)] [[Final Presentation](https://docs.google.com/presentation/d/1PvrrmgyCk8nw9__2zsZdBYRM7sAJUgTYgGv-WpB4wAg/edit#slide=id.g2294fc388e6_0_11)]
+Author: Patara Trirat (patara.t@kaist.ac.kr) [[Final Paper](/paper.pdf)] [[Final Presentation](https://docs.google.com/presentation/d/1PvrrmgyCk8nw9__2zsZdBYRM7sAJUgTYgGv-WpB4wAg/edit#slide=id.g2294fc388e6_0_11)]
 
 ![](/figures/idea_overview.jpg?raw=true "Tiny-TimeNAS")
 
