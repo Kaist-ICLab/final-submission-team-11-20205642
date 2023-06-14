@@ -14,7 +14,7 @@
 
 
 namespace {
-  const float accelerationThreshold = 0.75; // threshold of significant in G's
+  const float accelerationThreshold = 0.6; // threshold of significant in G's
   const int n_samples = 100;
   const int n_features = 6;
   int read_samples = n_samples;
@@ -192,12 +192,12 @@ void loop() {
 
         if (labels[max_index] == "walking") {
           digitalWrite(LEDG, LOW);  // Green for walking
-        } else if (labels[max_index] == "running") {
-          digitalWrite(LEDR, LOW);  // Red for running
+        } else if (labels[max_index] == "badminton") {
+          digitalWrite(LEDR, LOW);  // Red for badminton
         } else if (labels[max_index] == "standing") {
           digitalWrite(LEDB, LOW);  // Blue for standing
         } else {
-          digitalWrite(LED_BUILTIN, LOW); // badminton
+          digitalWrite(LED_BUILTIN, LOW); // running
         }
       }
     }
