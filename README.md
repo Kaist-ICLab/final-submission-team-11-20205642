@@ -7,6 +7,7 @@ Author: Patara Trirat (patara.t@kaist.ac.kr) [[Final Paper](/paper.pdf)] [[Final
 
 
 ## Introduction Video
+[![Introduction Video](https://img.youtube.com/vi/X-qmMkeJCng/0.jpg)](https://www.youtube.com/watch?v=X-qmMkeJCng)
 
 
 ## Project Directory
@@ -18,6 +19,7 @@ Author: Patara Trirat (patara.t@kaist.ac.kr) [[Final Paper](/paper.pdf)] [[Final
 │   └── regression # regression task datasets
 ├── demo_examples.ipynb # step-by-step demonstration notebook of Tiny-TimeNAS
 ├── LICENSE
+├── TinyTNAS_Classification.ino # main sketch file for deployment classification task (example)
 ├── models # folder for saving converted models
 ├── requirements.txt # necessary dependencies
 └── tiny_tnas # main package folder
