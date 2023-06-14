@@ -17,7 +17,7 @@ Author: Patara Trirat (patara.t@kaist.ac.kr) [[Final Paper](/paper.pdf)] [[Final
 │   ├── anomaly_detection # anomaly detection task datasets
 │   ├── classification # classification task datasets
 │   └── regression # regression task datasets
-├── demo_examples.ipynb # step-by-step demonstration notebook of Tiny-TimeNAS
+├── demo_search.ipynb # a step-by-step demonstration notebook of Tiny-TimeNAS (both classification and regression)
 ├── LICENSE
 ├── TinyTNAS_Classification.ino # main sketch file for deployment classification task (example)
 ├── models # folder for saving converted models
