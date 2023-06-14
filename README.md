@@ -33,7 +33,7 @@ Author: Patara Trirat (patara.t@kaist.ac.kr) [[Final Paper](/paper.pdf)] [[Final
 ```
 
 ## Installation
-For **architecture search** phase, run the following command for dependencies installation (highly recommended with Python 3.9 on a virtual environment or conda environment).
+For **architecture search** phase, run the following command for dependencies installation (highly recommended with Python 3.9 on a virtual environment or conda environment). Then, follow the `demo_search.ipynb` notebook file.
 ```bash
 git clone https://github.com/Kaist-ICLab/final-submission-team-11-20205642.git
 cd final-submission-team-11-20205642
