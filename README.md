@@ -39,7 +39,7 @@ cd final-submission-team-11-20205642
 pip install -r requirements.txt
 ```
 
-For **model deployment** phase, install the following [`Arduino_TensorFlowLite`](https://github.com/tensorflow/tflite-micro-arduino-examples) in your Arduino libraries and any libraries relevant to your specific applications (e.g., `` for IMU-based classification).
+For **model deployment** phase, install the following [`Arduino_TensorFlowLite`](https://github.com/tensorflow/tflite-micro-arduino-examples) in your Arduino libraries and any libraries relevant to your specific applications (e.g., `Arduino_LSM9DS1` for IMU-based classification).
 ```bash
 # in, for example, My Documents\Arduino\libraries
 git clone https://github.com/tensorflow/tflite-micro-arduino-examples Arduino_TensorFlowLite
